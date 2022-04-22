@@ -12,4 +12,7 @@
       <img src+"" />
       </body>
       </html>
-                             
+    <h1> CONTACT - PAGE 911 </title>
+    <h2> About me - i am a person trying to design and create websites :) </h2>
+    git add
+    git commit
